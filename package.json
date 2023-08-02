@@ -1,6 +1,6 @@
 {
 	"name": "delivery-driver-locator",
-	"author": "danmanu44",
+	
 	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
@@ -12,5 +12,6 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	}
+	},
+	"author": "danmanu44",
 }
